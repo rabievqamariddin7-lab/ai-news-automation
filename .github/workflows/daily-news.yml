@@ -5,6 +5,7 @@ name: Daily News Automation
   schedule:
     - cron: '0 20 * * *'
 
+
 permissions:
   contents: write
 
