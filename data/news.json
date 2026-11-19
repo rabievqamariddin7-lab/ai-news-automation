@@ -1,67 +1,795 @@
 [
   {
-    "id": "cdc92e35aa5a9cfe9bd123c5841eb529bab1e572ee2e3e73ad386aaae1bc4301",
-    "source": "Al Jazeera",
-    "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-    "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-    "published": "2026-11-18T20:24:50+00:00"
-  },
-  {
-    "id": "f9ed3e7bd8190f5b9066a8466f6641032d083e83016c40b4c366d7b8cd5c8326",
+    "id": "6c8137c7532654f86b8b3280f1c4d40d9462e8d10cab3268494055beee8bd277",
     "source": "The Guardian",
-    "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-    "summary": "<p>The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history</p><p>Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.</p><p>Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-    "published": "2026-11-18T20:24:19+00:00"
+    "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+    "summary": "<p>Measure failed 48-51 with GOP members again defending war that played a role in costing them midterm elections</p><p>The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again defending a conflict that played a major role in their sweeping midterm election losses.</p><p>The House of Representatives had approved the resolution in September, and it was the first to be voted on by either chamber since the 3 November vote in which the GOP lost control of both chambers of Congress beginning next year.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+    "published": "2026-11-19T20:24:09+00:00"
   },
   {
-    "id": "22548f2f54b2692563517b6fc79519b874a607be6caef63d8b802abdab5d7359",
-    "source": "Al Jazeera",
-    "title": "Muslims projected to overtake Christians as world’s largest religious group",
-    "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-    "published": "2026-11-18T20:21:34+00:00"
+    "id": "08dcbed660fe71825dfced01de3299716a303f7d5335dcb6ca90e7cee09d2de0",
+    "source": "The Guardian",
+    "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering’ 2028 re-election bid – live",
+    "summary": "<p>US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US email</a></p></li></ul><p>The National Security Agency is seeing<strong> a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other</strong>, according to the New York Times.</p><p>The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors.</p><p><strong>A secret, closed-door election:</strong> Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed.</p><p><strong>The winner only needs a caucus majority:</strong> The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role.</p><p><strong>The vote is scheduled for next month:</strong> As things stand, the election is set for <strong>1 December</strong>. Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race.</p><p><strong>Republicans choose their leaders separately:</strong> <a href=\"https://www.theguardian.com/us-news/republicans\">Republicans</a> hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner <strong>Jim Jordan</strong> as their leader after <strong>Mike Johnson </strong>opted not to run for minority leader. In the Senate, Republicans unanimously backed <strong>John Thune</strong> to continue leading the conference.</p> <a href=\"https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+    "published": "2026-11-19T20:22:13+00:00"
   },
   {
-    "id": "5e9339e2f04dd60770a393ed177332aecdcaf1b774da2df07a5353d1d141a7d8",
+    "id": "fc139917d31c578e76c0d4f26112f5829b558c1873d260110a76b30186938318",
+    "source": "The Guardian",
+    "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+    "summary": "<p>Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world</p><p>Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived.</p><p>GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait.</p> <a href=\"https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+    "published": "2026-11-19T20:07:23+00:00"
+  },
+  {
+    "id": "968ebb26e1aec61ee16eb53fd6aae2b3c3e46d838abe4e3bf35031834935faf6",
+    "source": "BBC World",
+    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T20:07:02+00:00"
+  },
+  {
+    "id": "a43d07242595e86575e7ef7ac866b660e41f2ccf2eed1d8eecae8361e5670615",
+    "source": "The Guardian",
+    "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+    "summary": "<p>Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court</p><p>An outgoing Republican senator blocked one of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s judicial nominations on Wednesday, throwing a wrench in the party’s plans to <a href=\"https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee\">approve the US president’s picks</a> before <a href=\"https://www.theguardian.com/us-news/2026/nov/19/democrats-senate-majority-midterms-trump\">Democrats take control of Congress.</a></p><p><a href=\"https://www.theguardian.com/commentisfree/2026/may/31/texas-john-cornyn-republicans\">John Cornyn</a> of Texas, who is leaving the US Senate after nearly 24 years following his primary loss to a Trump-backed challenger, <a href=\"https://apnews.com/article/donald-trump-judge-john-cornyn-29c80cad1197571cc3f5bb128023bf35\">told the Associated Press</a> he would not support T Elliot Gaiser, a 37-year-old official in the justice department, to serve on a district court in northern Texas.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+    "published": "2026-11-19T20:03:58+00:00"
+  },
+  {
+    "id": "5c56df3c54f085d1a9fcec7f3c376e717018848bf8547b8b1c2f089eefca9f34",
+    "source": "The Guardian",
+    "title": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
+    "summary": "<p>Federal court rules providers can acknowledge gender identity and provide gender-affirming care</p><p>The Trump administration cannot impose restrictions barring healthcare providers that receive certain federal HIV-treatment ⁠funds from acknowledging the gender identity ⁠of their transgender patients ​or from providing them with gender-affirming care, a federal judge ruled on Thursday.</p><p>US district judge William Young in Boston sided with a group of national HIV medical associations and ⁠healthcare providers that challenged grant funding conditions imposed by the administration last year after Trump signed an executive order prohibiting federal funding for what he calls “gender ideology”.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
+    "published": "2026-11-19T20:02:00+00:00"
+  },
+  {
+    "id": "792d52c20b6c95e3acc0f89cc3c35fa972c1aa357692c8dfc2f8f41f76aa2372",
     "source": "Al Jazeera",
-    "title": "US loses measles-free status after 26 years in historic setback",
-    "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-    "published": "2026-11-18T20:18:25+00:00"
+    "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+    "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+    "published": "2026-11-19T19:53:24+00:00"
+  },
+  {
+    "id": "d5f1d127e4d3124170e010bf330f8c550f9af700f7b1c1caa821884fd19ed036",
+    "source": "The Guardian",
+    "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+    "summary": "<p>The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career advocating that people should have autonomy over their bodies.</p><p>Stone died aged 75 on Wednesday surrounded by family after a long fight against glioblastoma, an aggressive form of brain cancer.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+    "published": "2026-11-19T19:44:24+00:00"
+  },
+  {
+    "id": "9417e7ae610942db2c4a11f287f21c0b41915c0c1c2a7cbb6535236708e118e6",
+    "source": "Al Jazeera",
+    "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+    "summary": "German chancellor warns peace talks without Europe&#039;s involvement are doomed to fail, urging unity with Ukraine.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+    "published": "2026-11-19T19:40:23+00:00"
+  },
+  {
+    "id": "de7c154486be3e536c24b02c136029a0d5c0edd13060c013806c7f0285b5b118",
+    "source": "Al Jazeera",
+    "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+    "summary": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world&#039;s largest refugee camps near Cox&#039;s Bazar.",
+    "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+    "published": "2026-11-19T19:33:25+00:00"
+  },
+  {
+    "id": "e718a3557ce70fff71f3ac074abd8cb363cefba467bf347826b4dd3a24bc68bd",
+    "source": "The Guardian",
+    "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
+    "summary": "<p>Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet</p><p>It has been a memorable few days for Wales. At the weekend, the men’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in more than 70 years. Then on Thursday evening came another culturally significant moment when Cardiff rolled out the red carpet to celebrate the <a href=\"https://www.theguardian.com/uk-news/2026/aug/04/star-wars-dubbed-welsh-s4c\">first Welsh-language dub</a> of the Star Wars franchise.</p><p>Stars of stage and screen who voiced the words of Luke Skywalker, Darth Vader, C-3PO et al in Welsh (Cymraeg) over the original 1977 Star Wars film took the plaudits at the Cineworld Cardiff screening.</p> <a href=\"https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+    "published": "2026-11-19T19:33:00+00:00"
+  },
+  {
+    "id": "86e0b8ad3fbe6dd06a4292f439ef0697469118ef9c36eb4d51e4109f9cd9884e",
+    "source": "The Guardian",
+    "title": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+    "summary": "<p>Ministry of Justice weighs up comments issued through rapist’s wife as PM asks: ‘Why are we having to hear from him?’</p><p>The prison authorities are weighing up whether Russell Brand harassed his victims by issuing comments through his wife insisting he was not guilty of rape and sexual assault.</p><p>After Andy Burnham called on Google to take down the statement from YouTube, a continuing Ministry of Justice inquiry is focusing on whether Brand has broken rules that are supposed to prevent “serious distress” to the victims of crime.</p> <a href=\"https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+    "published": "2026-11-19T19:30:14+00:00"
+  },
+  {
+    "id": "3766e989fc4f9b0cb59fba7ce69e763239a7b3aae08e799e8a9899324bdf6f0f",
+    "source": "Al Jazeera",
+    "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+    "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+    "published": "2026-11-19T19:27:32+00:00"
+  },
+  {
+    "id": "e9438e590c81e68f0c36a06c45ba7f2595139a3fd4af77110eb813747c6c4f9f",
+    "source": "Al Jazeera",
+    "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+    "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+    "published": "2026-11-19T19:23:45+00:00"
+  },
+  {
+    "id": "a5c334a3029f5a5a566e66c1d7efc665daf45501457a7f793a3dee493244d5cc",
+    "source": "Al Jazeera",
+    "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+    "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+    "published": "2026-11-19T19:19:06+00:00"
+  },
+  {
+    "id": "1ec13871f4c87c172630a298e3fe83169a99bc308e813ae42bd84d871204e240",
+    "source": "The Guardian",
+    "title": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
+    "summary": "<p>Politicians call attack on independent councillor Ibrar Ali canvassing in Bradford Moor ward ‘deeply disturbing’</p><p>Politicians have described an attack on a councillor who was canvassing in Bradford as “horrific” and “deeply disturbing”, after a man was arrested on suspicion of attempted murder.</p><p>A 32-year-old man is in custody suspected of attacking Ibrar Ali at about 11am on Thursday as the independent councillor was door-knocking in his Bradford Moor ward, leaving him with a stab wound in the leg.</p> <a href=\"https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+    "published": "2026-11-19T19:18:56+00:00"
+  },
+  {
+    "id": "8bfabda087a683e0874281f5aa648e6ac0d1efe5d4245a476cd2b384a40b2b95",
+    "source": "Al Jazeera",
+    "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+    "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN&#039;s top court rules Myanmar committed genocide",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+    "published": "2026-11-19T19:16:34+00:00"
+  },
+  {
+    "id": "92ca9ff247094edd5ced5de258544cbc8a6f68a713f616ff578d93005b5dd500",
+    "source": "BBC World",
+    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+    "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T19:16:21+00:00"
+  },
+  {
+    "id": "78822244970ca7449a79457e50f3ff26661d5631ca9dd327ba6721a51150191c",
+    "source": "Al Jazeera",
+    "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+    "summary": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+    "published": "2026-11-19T19:15:10+00:00"
+  },
+  {
+    "id": "19861338f9ac32848587558842f73025262ece8bc9c850ca18a37ef8893e217c",
+    "source": "The Guardian",
+    "title": "Fierce storm lashes southern California after record rain in San Francisco",
+    "summary": "<p>Atmospheric river first hit the north of the state, leaving tens of thousands of households without power </p><p>An atmospheric river pounded southern California with heavy rain and winds, one day after the fierce storm set records for rainfall in the north of the state.</p><p>Los Angeles authorities had urged residents in the Palisades, Hurst and Sunset burn scar areas to be prepared to leave before the storm’s arrival on Thursday, and warned of a risk of debris flows and flooding. Flash flood warnings were issued from Eastern Malibu to Beverly Hills to Hollywood, with heightened risk until noon on Thursday, while flood warnings were issued across the region through Thursday afternoon.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
+    "published": "2026-11-19T19:08:35+00:00"
+  },
+  {
+    "id": "3b394bd268891a4f5cef063fc2611b6104c4171782a0a764713fb5260ceec802",
+    "source": "The Guardian",
+    "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
+    "summary": "<p>Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda</p><p>The UK and the EU plan to establish formal talks for the first time about sending rejected asylum seekers to third-country hubs, according to a leaked document.</p><p>A draft of a joint statement expected to be signed by Andy Burnham and Ursula von der Leyen at a summit on Friday morning states that both sides will establish “a structured dialogue” to discuss “returns to third countries”.</p> <a href=\"https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+    "published": "2026-11-19T19:02:45+00:00"
+  },
+  {
+    "id": "37dad078278eeb5f2143e593e60cb71beb62871bb621b725f734fdeebc6991ec",
+    "source": "Al Jazeera",
+    "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "summary": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+    "published": "2026-11-19T19:01:00+00:00"
+  },
+  {
+    "id": "8f5a940f8e6db11fb16c0efa37242b5fa01bb55a51e0a6d5e950d7fc28c78b76",
+    "source": "DW News",
+    "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
+    "summary": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
+    "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T18:59:00Z"
+  },
+  {
+    "id": "73edb84bb2669777d589234d29cc45596a2e554b7b6581a6b7f690295d9fea65",
+    "source": "The Guardian",
+    "title": "Woman raped by strangers after being drugged by husband calls for consent law changes",
+    "summary": "<p>Four men convicted of sexual assault and rape of Joanne Young, whose husband advertised her on UK swinging websites</p><p>• <a href=\"https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young\">Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years</a></p><p>A woman who was raped by strangers after being drugged by her husband has warned of “serious questions about how the law deals with consent”, as four men who abused her were convicted on Thursday.</p><p>Philip Young, 50, advertised his then wife, Joanne Young, on dating and swinging websites, presenting it as a “kink” for both of them, Winchester crown court heard. In fact, he had been sedating her, plunging her into an “inanimate state” in which anything could be done to her by the men who answered the adverts, jurors were told.</p> <a href=\"https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+    "published": "2026-11-19T18:54:01+00:00"
+  },
+  {
+    "id": "28a9113c726edb3a1b4d528067217510e3e124caec8ba5c6293656131aa22520",
+    "source": "Al Jazeera",
+    "title": "France awaits verdict six years after police beat Black music producer",
+    "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+    "published": "2026-11-19T18:51:50+00:00"
+  },
+  {
+    "id": "cf45ec72844a2b471640e796f7b6964eac78a3771fed15e484855d8656bee581",
+    "source": "Al Jazeera",
+    "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+    "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+    "published": "2026-11-19T18:46:10+00:00"
+  },
+  {
+    "id": "ffcc5892a49c8a14d0d9cb5636d4f0238461cd77ceeb8c22e0b4c0cf213bea53",
+    "source": "Al Jazeera",
+    "title": "Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold",
+    "summary": "The compromise reached will unite forces that include brigades from the Popular Mobilisation Forces.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+    "published": "2026-11-19T18:16:09+00:00"
+  },
+  {
+    "id": "e21f14f49168dd075230fa1ec895177c194827ad2e1f1b574a519af3388781b0",
+    "source": "Al Jazeera",
+    "title": "Trump-Xi-Putin summit: Five things you need to know",
+    "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+    "published": "2026-11-19T18:13:52+00:00"
+  },
+  {
+    "id": "408deb84be412cde8f2d2961d954757901126bc33c495c57f98bbb154330241d",
+    "source": "The Guardian",
+    "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
+    "summary": "<p>Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China</p><p>For what it’s worth, <strong>the China-US-Russia ‘peace declaration’ issued after their meeting,</strong> <strong>and <a href=\"https://www.news.cn/politics/leaders/20261119/52ee3a20593f4b3db7642db2a7ece1a7/c.html\">published by Chinese state media</a>, includes absolutely no mention of Ukraine or Europe whatsoever.</strong></p><p>There is only one, rather generic, line that could be seen as close to these issues:</p><p><em>“The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+    "published": "2026-11-19T18:03:54+00:00"
+  },
+  {
+    "id": "e4c4c0997abe2d0ff1cf43c55cb4b5d227ffa1277657cf75e0680e2e232bd1eb",
+    "source": "DW News",
+    "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+    "summary": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\"",
+    "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T17:52:00Z"
+  },
+  {
+    "id": "cb9e94bb21705eddc1d0f7ac19741d4dfb15e827668a7b2047a402c2f591bf9b",
+    "source": "Al Jazeera",
+    "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+    "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+    "published": "2026-11-19T17:50:21+00:00"
+  },
+  {
+    "id": "eeaf96b77ff1efc7bf10cb328af2ffbecccfbcd7957b6d60377a33d7867e7466",
+    "source": "BBC World",
+    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T17:38:22+00:00"
+  },
+  {
+    "id": "c51e08d26404160213aeb6628456ef66dd41edfff0bede0f79dc3afac8b1fffd",
+    "source": "BBC World",
+    "title": "Rohingya genocide: What was said in court and what happens now?",
+    "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+    "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T17:35:05+00:00"
+  },
+  {
+    "id": "f2c9a0a78b110bb051fac67b1241cbad624860ab9f886f930377aebff3592c43",
+    "source": "The Guardian",
+    "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+    "summary": "<p>Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China. Is this the start of a global shift of power away from Europe, or was it just a hyped-up photo opportunity?</p><p>You can read Pippa Crerar’s article on the EU’s approach to a reset with the UK <a href=\"https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit\">here</a></p> <a href=\"https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+    "published": "2026-11-19T17:23:36+00:00"
+  },
+  {
+    "id": "20aed2f8500b9a486ea143762aad134cc79d840c4a8aa12acb4f2a0bb32d9476",
+    "source": "BBC World",
+    "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+    "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+    "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T17:23:34+00:00"
+  },
+  {
+    "id": "d9c4d2e33d041e624a69eb35ea149017f83738eff8e19884437e1ae801dadd5f",
+    "source": "BBC World",
+    "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+    "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+    "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T17:23:29+00:00"
+  },
+  {
+    "id": "9f0d0855b9da81ff460ec16466d9e2dde1242d3cfaf5f8aa680f5f5972b4ab1f",
+    "source": "The Guardian",
+    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+    "summary": "<p>Britain understood to have made concessions on youth mobility scheme as negotiations on wider deal continue</p><p>British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as negotiations on the UK-EU reset talks go “down to the wire”.</p><p>Tensions in Brussels remained high on Thursday afternoon as ambassadors began crunch talks on the latest draft of the wider agreement, with sources confirming both sides were still battling over the exact nature of the UK’s role in shaping future European food and farming rules, in a second part of the deal.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+    "published": "2026-11-19T17:19:17+00:00"
+  },
+  {
+    "id": "b6b47eb42b89b4285973617102074877b59263ebb4ff9cf9fc2da16467e3e3cf",
+    "source": "Al Jazeera",
+    "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+    "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+    "published": "2026-11-19T17:15:30+00:00"
+  },
+  {
+    "id": "74bf733e801e15fad474aa5677b2610fa1aa0c9a3f3cf5471db8595d8f5a8629",
+    "source": "The Guardian",
+    "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+    "summary": "<p>Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent</p><p>The <a href=\"https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar\">international court of justice (ICJ) verdict</a> making Myanmar the first country in history to be found guilty of committing genocide does not just deliver justice for Rohingya victims. It also gives the 1948 <a href=\"https://treaties.un.org/doc/publication/unts/volume%2078/volume-78-i-1021-english.pdf\">genocide convention</a> new relevance in governing the actions of nation states.</p><p>In their nine votes to six majority ruling, the panel of judges in The Hague set out a detailed roadmap for how the convention should be applied to real-world situations in which a government is accused of committing genocide against a whole population group, especially when it comes to assessing the question of intent.</p> <a href=\"https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
+    "published": "2026-11-19T17:14:55+00:00"
+  },
+  {
+    "id": "09ca9a5a658a5ee8e511d22d7e270043ea4b0a1af66bf04ad3894769bb01452c",
+    "source": "The Guardian",
+    "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+    "summary": "<p>Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’</p><p></p><p>China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran caused by two of the participants.</p><p>The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+    "published": "2026-11-19T17:13:23+00:00"
+  },
+  {
+    "id": "ea7d45ec18e6c673bad6c658c922cd57557f735f813f9347cf37bf7d1404cb45",
+    "source": "The Guardian",
+    "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+    "summary": "<p>US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake</p><p>Donald Trump was, again, <a href=\"https://x.com/RpsAgainstTrump/status/2123269335544185306\">accused</a> of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the <a href=\"https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china\">Asia-Pacific Economic Cooperation (Apec)</a> summit in China.</p><p>The US president appeared to close his eyes for roughly 10 seconds on Thursday. As his eyes closed, Trump’s head tilted downward, and his hands remained clasped in front of him.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+    "published": "2026-11-19T17:12:11+00:00"
   },
   {
     "id": "4bae7c9dd7b588be8c77c3467f78cabdbf32a1568666f803c969c766e867f78b",
     "source": "BBC World",
-    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+    "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T20:14:57+00:00"
+    "published": "2026-11-19T17:03:23+00:00"
   },
   {
-    "id": "9f7736cc1a6f6244907078e73fa5285ba47c08e526bc6fd0ef27f95ea0560034",
+    "id": "1d50d19417409dad9fa54c9225559a65ce798bc9b4f5a1ac96ff84b4f3b796a6",
     "source": "Al Jazeera",
-    "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-    "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-    "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-    "published": "2026-11-18T20:14:04+00:00"
+    "title": "Trump and Putin ‘hijacked’ China summit",
+    "summary": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+    "published": "2026-11-19T17:02:22+00:00"
   },
   {
-    "id": "75de8fdddb900a30e53622c42c7eb853c1577b4007de143bae72408e9b1180c0",
+    "id": "4972c06834bc4e0d6f49aa3cced91f9074cc3b24e9a1c15e4a9e2a2c65cac2cb",
     "source": "Al Jazeera",
-    "title": "Trump and Putin to meet one-on-one in China Thursday",
-    "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-    "published": "2026-11-18T20:12:20+00:00"
+    "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+    "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+    "published": "2026-11-19T16:59:38+00:00"
   },
   {
-    "id": "4867261aeddf3394789b1fe069dc1d6ea42436f70ca1f63ba77249ab5c9e4929",
+    "id": "d0baa48432181f2840e8d146e4601ade419a0d5606a07da2b480b6b190cb33ba",
+    "source": "Al Jazeera",
+    "title": "Anthropic starts trading in the US after blockbuster IPO",
+    "summary": "Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn.",
+    "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
+    "published": "2026-11-19T16:57:26+00:00"
+  },
+  {
+    "id": "e867d5490daa2007556bd6c3088b64925a7dabefce4a443d55ae91614ba90f65",
     "source": "The Guardian",
-    "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-    "summary": "<p>The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for US breaking News email</a></p></li></ul><p>Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. <strong>CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems</strong><strong>”, including “systems being patched, hardware being applied”</strong>.</p><p>Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.”</p> <a href=\"https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-    "published": "2026-11-18T20:11:50+00:00"
+    "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+    "summary": "<p>Relief in the immediate aftermath of a landmark ruling, but what happens next is in the hands of governments around the world</p><p>There were tears in the halls of The Hague in the Netherlands and an eruption of applause in the refugee camps of Bangladesh as the scattered communities of Rohingya watched the <a href=\"https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar\">UN’s top court rule the Myanmar military</a> had committed genocide against them.</p><p>For almost a decade, the Rohingya have awaited this moment; recognition from the international court of justice (ICJ) that Myanmar in 2017 intentionally tried to destroy the mostly Muslim minority group through a campaign of mass killings and rape. More than 10,000 Rohingya were killed and 700,000 fled to neighbouring Bangladesh.</p> <a href=\"https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling",
+    "published": "2026-11-19T16:15:52+00:00"
+  },
+  {
+    "id": "1548d446c7c63613fa8ff585f54efa58d72755fdcd12f45176c8743606cb4a08",
+    "source": "BBC World",
+    "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+    "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+    "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T15:52:26+00:00"
+  },
+  {
+    "id": "2d45dd075896a4c6fe0f159efcd18dd5203ec4edd7ebca1b70ab0986ee249cf6",
+    "source": "The Guardian",
+    "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+    "summary": "<p>Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda</p><p></p><p>It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”.</p><p>But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed had been written, and will instead be consigned to a smallish footnote in any future volume of the 21st century.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+    "published": "2026-11-19T15:35:01+00:00"
+  },
+  {
+    "id": "619aa160f3d881b96216e5422a7cd5edfe488266c9b74b516eb4bf98d7bfd97a",
+    "source": "Al Jazeera",
+    "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+    "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+    "published": "2026-11-19T15:24:51+00:00"
+  },
+  {
+    "id": "6a0a90788c7fa7303b26614a9afc2ed27e86538af5f2b36b82156e9361a2c4ae",
+    "source": "Al Jazeera",
+    "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+    "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+    "published": "2026-11-19T15:16:43+00:00"
+  },
+  {
+    "id": "be4d7cb5a130fc3a1615bc50aaf6e23105c67c3bf6bc28a0795043219c06c429",
+    "source": "DW News",
+    "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
+    "summary": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
+    "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T14:58:00Z"
+  },
+  {
+    "id": "26bc0b4780fd662ac21283e9d59462b61a50ffca2d303daad42f79ef28180917",
+    "source": "Al Jazeera",
+    "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
+    "summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
+    "url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+    "published": "2026-11-19T14:41:38+00:00"
+  },
+  {
+    "id": "61c238b883f5d0be8ad42c8e181113dd985a2a33ccc158b0e4fd049030debe67",
+    "source": "Al Jazeera",
+    "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+    "summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an &#039;open invasion&#039;.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+    "published": "2026-11-19T14:34:22+00:00"
+  },
+  {
+    "id": "8620bbfc4736fd6a039a9c9ff37ab9abe2b7a3303428af71af587b9bc578b960",
+    "source": "Al Jazeera",
+    "title": "What the ICJ genocide ruling means for the Rohingya people",
+    "summary": "This is the first time the court has ruled that a state committed genocide.",
+    "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+    "published": "2026-11-19T14:31:47+00:00"
+  },
+  {
+    "id": "9df169eba8373877459fba074525f801bda507283f6c708d0293b0eb6cfae8b0",
+    "source": "The Guardian",
+    "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
+    "summary": "<p>Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”.</p><p>The trade union representing writers and creatives is “alarmed” at a proposal to let AI companies train on Australian data if they buy a permit, an idea also strongly rebuffed by the Coalition and Greens.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
+    "published": "2026-11-19T14:00:52+00:00"
+  },
+  {
+    "id": "83ed9ad492618f78fcd6a8140a3e420754e39e653cc8a2f79d4f50225fbcf851",
+    "source": "The Guardian",
+    "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+    "summary": "<p>Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom.</p><p>Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement.</p> <a href=\"https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+    "published": "2026-11-19T14:00:50+00:00"
+  },
+  {
+    "id": "5419e85144835b3aeffac6a20f5519332da197d2e6db7c23c1afd6e945ba5fcc",
+    "source": "DW News",
+    "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+    "summary": "German Foreign Minister Wadephul has said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow to take peace talks seriously. He also warned Ukraine should be prepared for peace talks to fail.",
+    "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T13:56:00Z"
+  },
+  {
+    "id": "bab09631a56feac7555e4af053fa64880998a674eb784506ff9dd7edb7c12731",
+    "source": "Al Jazeera",
+    "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+    "summary": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
+    "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+    "published": "2026-11-19T13:54:10+00:00"
+  },
+  {
+    "id": "494a84273146762f54b85eb73d8f98695ed2f483c0b8cc4c55f0095f1cb13aa9",
+    "source": "The Guardian",
+    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+    "summary": "<p>Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes</p><p>Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the world’s highest court has ruled, in a historic and unprecedented decision.</p><p>The judgment from the international court of justice (ICJ) – which has never previously found a state responsible for genocide – ends a seven-year legal battle that was seen as a critical global test for dealing with the most serious of all state crimes.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+    "published": "2026-11-19T13:52:10+00:00"
+  },
+  {
+    "id": "4a7b72cc2c7e095e9c65d6fe709c57a7db4c43f64a6d8b4f02eb0541977c3d72",
+    "source": "Al Jazeera",
+    "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+    "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel&#039;s military.",
+    "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+    "published": "2026-11-19T13:49:49+00:00"
+  },
+  {
+    "id": "0f1dfbdae502ca8b95dc06220c940efcff7b66523e5eeeace6a7106026b11839",
+    "source": "BBC World",
+    "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+    "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T13:31:23+00:00"
+  },
+  {
+    "id": "b425b8ab9a228517d6c57f151d748472fa4d35a190671a980aa400de27be1d20",
+    "source": "DW News",
+    "title": "Pakistan minister to visit India, but no breakthrough expected",
+    "summary": "A Pakistani minister's visit to India for a Shanghai Cooperation Organization forum marks a rare high-level contact between the two archrivals, but analysts say it does not signal a resumption of bilateral engagement.",
+    "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T13:26:00Z"
+  },
+  {
+    "id": "544e5abb581c180c35643db3deab9c171dab2bcfac3c5d679078e7e79db9fc5d",
+    "source": "The Guardian",
+    "title": "What is at stake at the EU-UK summit in Brussels?",
+    "summary": "<p>Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p></p><p>The EU and UK will hold a long-awaited summit in Brussels on Friday – the second since Brexit – to hammer out the UK’s longer-term relationship with the bloc.</p><p>It will be attended by the prime minister, Andy Burnham, the head of the European Commission, Ursula von der Leyen, and the president of the European Council, António Costa.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+    "published": "2026-11-19T13:11:23+00:00"
+  },
+  {
+    "id": "ecb256426dd1c275361141d6a3e0f7ef4b04e89f87b097ad3cdde56aeed90f3f",
+    "source": "BBC World",
+    "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+    "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+    "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T13:07:35+00:00"
+  },
+  {
+    "id": "eb1e212b48f5a2330817b79c79e05f64f53e573a036a35df52b76f0697ac1d03",
+    "source": "BBC World",
+    "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+    "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+    "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T12:56:30+00:00"
+  },
+  {
+    "id": "de9b828e439048737b39cd368d23a658675ddfa5f780e3c9338e3728420830bf",
+    "source": "The Guardian",
+    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+    "summary": "<p>First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu</p><p>The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents.</p><p>Israeli tanks <a href=\"https://www.reuters.com/world/middle-east/israeli-military-begins-new-thrust-gaza-kills-three-people-2026-11-18/\">rolled along the Salah al-Din road</a>, Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasefire, accused Israel and Hamas of failing to honour their commitments to end hostilities.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+    "published": "2026-11-19T12:40:46+00:00"
+  },
+  {
+    "id": "37942c3acd714d669709e657df5102083cf1fcabb571125d79943b273183467e",
+    "source": "The Guardian",
+    "title": "Eight injured after driver in Israel repeatedly rams car into Palestinians",
+    "summary": "<p>Arab MPs accuse politicians of fuelling hostility as footage shows driver accelerating towards Palestinians at four locations in Kafr Qasim</p><p>Eight people were injured on Wednesday evening when a driver struck Palestinian residents at four separate locations in Kafr Qasim, a city in central Israel.</p><p>Footage shared on social media appears to show the car accelerating towards people, all Palestinians, at several locations in the city, striking them before driving away. Three of those injured were in moderate condition, and several of the victims were women leaving a nearby wedding, <a href=\"https://www.timesofisrael.com/kafr-qasim-residents-say-jewish-car-rammer-influenced-by-politicians-anti-arab-rhetoric/\">the Times of Israel reported</a>.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
+    "published": "2026-11-19T12:36:37+00:00"
+  },
+  {
+    "id": "cb25ee157274b1df14a9b1126a74c6121290cd93c6c64ac7b8cc2918cb1b0c88",
+    "source": "UN News",
+    "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+    "summary": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+    "published": "2026-11-19T12:00:00+00:00"
+  },
+  {
+    "id": "54080d49b28caf36bb39c9748c8e3671a6f62dc12133a7f549605e2abc290b7b",
+    "source": "UN News",
+    "title": "No government approval needed to form or join a group, UN rights committee says",
+    "summary": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world.",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+    "published": "2026-11-19T12:00:00+00:00"
+  },
+  {
+    "id": "d9590ae676aea05f11792897bda1a2c051e81323fad5b1d7ec07ec12a8277f19",
+    "source": "UN News",
+    "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+    "summary": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country’s ethnic Rohingya, the first such ruling against a State.&nbsp;",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+    "published": "2026-11-19T12:00:00+00:00"
+  },
+  {
+    "id": "29b28d61ecc7b2f0dbcdeb87cb46f662caf5234f60ae4d82a753d48167672db1",
+    "source": "BBC World",
+    "title": "Florida pastor found guilty over role in assassination of Haitian president",
+    "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+    "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T11:44:57+00:00"
+  },
+  {
+    "id": "cfb826ce4266e7619e4eecdaaafe61fb2b99939311793836f1c28007bc7bd6b4",
+    "source": "BBC World",
+    "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+    "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+    "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T11:43:06+00:00"
+  },
+  {
+    "id": "4f5467d28d4b9ae348c44768383456bb86ec0515edd397f535513fb76b595133",
+    "source": "DW News",
+    "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+    "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
+    "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T11:39:00Z"
+  },
+  {
+    "id": "7a2a34188fae0860ceedd573a05a7e8bef3cec7634f535ac715b95a272a4a768",
+    "source": "BBC World",
+    "title": "Indian driver wins $1.3m in life-changing lottery prize",
+    "summary": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+    "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T11:38:09+00:00"
+  },
+  {
+    "id": "5733d1db1768f20e1dea823b93f2f6c65af40e6020d423fa366b4686ef7d3385",
+    "source": "The Guardian",
+    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+    "summary": "<p>Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former New South Wales opposition leader, Mark Speakman, will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced him, Kellie Sloane.</p><p>In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly ahead of the vote, Speakman said he would not contest his south Sydney seat of Cronulla, which he has held since 2011.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+    "published": "2026-11-19T11:23:41+00:00"
+  },
+  {
+    "id": "42f04388822594d071d2165d5de9054787b0efdff4a4139c21ed852dc0bd4812",
+    "source": "The Guardian",
+    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+    "summary": "<p>Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was killed by her partner, and another for an exclusive story that revealed Pauline Hanson had travelled to the US with mining billionaire Gina Rinehart.</p><p>Investigative reporter Sarah Martin won the award for print/text news report for her <a href=\"https://www.theguardian.com/australia-news/2025/dec/30/pauline-hanson-travelled-to-us-on-gina-rineharts-private-jet-to-attend-cpac\">exclusive story that revealed </a>the One Nation leader and her chief of staff, James Ashby, travelled with Rinehart on the mining magnate’s Gulfstream 700 on 27 October last year.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+    "published": "2026-11-19T11:13:32+00:00"
+  },
+  {
+    "id": "e079575437a76ace10bc16bb9a06d6b4c7d724ce46c79a7c04e15c8c3b163ca9",
+    "source": "The Guardian",
+    "title": "Race to replant five South African baobabs after export blocked",
+    "summary": "<p>The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits</p><p>Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.</p><p>The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover. The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+    "published": "2026-11-19T11:03:24+00:00"
+  },
+  {
+    "id": "f93ed37b5789392dd32f4dbef3af80ed4649704951f4fa11d5cae269bc105ad1",
+    "source": "BBC World",
+    "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+    "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
+    "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T10:32:10+00:00"
+  },
+  {
+    "id": "1003cd7da12c85aacfc84b7edf44746a8796f353fe10837fb6875284578db528",
+    "source": "BBC World",
+    "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+    "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+    "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T09:21:54+00:00"
+  },
+  {
+    "id": "dd4c81a285670870666405c3aef202ee8bc5f044587c96c0669fa0fa5348a96d",
+    "source": "BBC World",
+    "title": "Trump greets 'my friend' Putin as pair shake hands",
+    "summary": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+    "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T08:31:09+00:00"
+  },
+  {
+    "id": "666ba17e29533e1ccf393ea7275322a3817bd876177cf95cbbae4a45a60867a1",
+    "source": "NPR World",
+    "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+    "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
+    "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+    "published": "2026-11-19T07:29:41-05:00"
+  },
+  {
+    "id": "8bb330a5cfc1fee19bf4e3af664809607475dd1b444171f1f6cb93c1ff7e0326",
+    "source": "NPR World",
+    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+    "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+    "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+    "published": "2026-11-19T07:26:01-05:00"
+  },
+  {
+    "id": "c4b3d55d773b14949438babb33b62f65448ae6016d79ca9a69f3544c772d6c33",
+    "source": "The Guardian",
+    "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+    "summary": "<p>Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport</p><p>Parts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts and arson attacks, with the ancestral home ⁠of former leader Muhammad Yunus set ablaze in the violence.</p><p>Hasina’s Awami League party had called for a ​week-long programme of protests and rallies to mobilise support ‌for <a href=\"https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile\">Hasina’s planned return in December</a>, culminating in a ‌nationwide lockdown on Thursday.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+    "published": "2026-11-19T06:58:33+00:00"
+  },
+  {
+    "id": "f9eeefa34f84616c416feb4fbb76d33028c740939221556f8a0fec62bfc01def",
+    "source": "DW News",
+    "title": "Is the AI bubble bursting just as Anthropic goes public?",
+    "summary": "The sharp sell-off in tech stocks after the US midterms and the Nvidia scandal has cast doubt on Anthropic's IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
+    "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T05:58:00Z"
+  },
+  {
+    "id": "41ceb8db6bde3d56334f3cd8dcb19fb018a2a63a417740266f3a9edb7e7badd8",
+    "source": "The Guardian",
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "summary": "<p>Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas  </p><p>The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog.</p><p>The International Energy Agency (IEA) warned that datacentres will consume twice as much electricity by 2030 compared with today, with the global expansion of artificial intelligence accounting for three-quarters of this growth.</p> <a href=\"https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+    "published": "2026-11-19T05:00:18+00:00"
+  },
+  {
+    "id": "5b3c36d0af3c0a388c99266407922f2eb1f580881071d4d96f80180e059e83a2",
+    "source": "NPR World",
+    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+    "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+    "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+    "published": "2026-11-19T04:46:24-05:00"
+  },
+  {
+    "id": "64ddb9b93f18a95b917fe9bf2e0155df6eb9e44627e0451837db43f39d841da6",
+    "source": "NPR World",
+    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+    "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+    "published": "2026-11-19T04:44:40-05:00"
+  },
+  {
+    "id": "b294a552230e3405b555f1f5cb8047e65a057759e1f49c1c6f032f4b6087276f",
+    "source": "BBC World",
+    "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+    "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T04:42:52+00:00"
+  },
+  {
+    "id": "2b7e66a3cbc379a3c66f296137ad87fd3c42a370b77626ae7bf412aae42874f5",
+    "source": "The Guardian",
+    "title": "One in four women globally unable to refuse sex within marriage, says UN",
+    "summary": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.</p><p>In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said <a href=\"https://www.unfpa.org/swp2026\">the report</a> by the UN Population Fund (<a href=\"https://www.unfpa.org/latest?_gl=1*qgl8yd*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUT_aKqck2yVoC8vNqJ6FDghCWHDwCXcKD3yGJ9fmgqTGSh0z0LaYAcaAvlMEALw_wcB&amp;gbraid=0AAAAAoaU5jLrFra9lcVEXtmHPvgYu0nsj\">UNFPA</a>) published on Thursday.</p> <a href=\"https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "published": "2026-11-19T04:00:16+00:00"
+  },
+  {
+    "id": "5b76b8d80d91a94330fa82c900a5c633075a45563e9f2c85bde9da2d57df8008",
+    "source": "BBC World",
+    "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+    "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T02:59:06+00:00"
+  },
+  {
+    "id": "877afe82f192b0c861e9598fd2c66570f4db14e38e9a18eb74f240ff2a68611d",
+    "source": "BBC World",
+    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+    "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+    "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T00:49:19+00:00"
+  },
+  {
+    "id": "d4bb422603f1c4d5f2559204a54388c7c2502343932fa5a5c2c30a19c956ad78",
+    "source": "BBC World",
+    "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+    "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+    "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-19T00:38:52+00:00"
+  },
+  {
+    "id": "c47a202f8ce2b7721dec2083547cb82853f775934f17fb17d0f741ef2aa246d8",
+    "source": "DW News",
+    "title": "Almost 1 in 4 children live in conflict zones — report",
+    "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
+    "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
+    "published": "2026-11-19T00:34:00Z"
+  },
+  {
+    "id": "4c8aeede10ce74e4fc929f26f4b00042482e185f56c6fa10371644a7285538ba",
+    "source": "BBC World",
+    "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+    "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+    "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T23:47:46+00:00"
+  },
+  {
+    "id": "4890d4f9638ab71db643be083b005fcee82fba6bb15e6fdd12fca5cf6ec92374",
+    "source": "BBC World",
+    "title": "The seven Anthropic founders who are about to become multi-billionaires",
+    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T23:42:07+00:00"
+  },
+  {
+    "id": "a841d7eae2401c931b50a8ddc69d7247f382e7318b724c6bdcb12eb59c2868eb",
+    "source": "BBC World",
+    "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+    "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+    "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T23:28:03+00:00"
+  },
+  {
+    "id": "89463a15fdb11f74eee28b8a0b64a1a5f2631db14053fdc13d92293950a883ae",
+    "source": "The Guardian",
+    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+    "summary": "<p>Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse</p><p>A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.</p><p>Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami. He had faced a total of eight charges including conspiracy to kidnap or kill a person outside the United States.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+    "published": "2026-11-18T22:31:41+00:00"
+  },
+  {
+    "id": "29e3d15185749f88c47ab9d5cffaef9c6f5ad7c278125487bfcc0318ce357dcf",
+    "source": "BBC World",
+    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-11-18T21:13:06+00:00"
+  },
+  {
+    "id": "f9ed3e7bd8190f5b9066a8466f6641032d083e83016c40b4c366d7b8cd5c8326",
+    "source": "The Guardian",
+    "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+    "summary": "<p>Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago</p><p>Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.</p><p>Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+    "published": "2026-11-18T20:24:19+00:00"
   },
   {
     "id": "c9225e5cee2bd86065ddbb6fbe9ef4edd1278a6d15c8c7eabd799131579207c9",
@@ -72,212 +800,12 @@
     "published": "2026-11-18T20:07:08+00:00"
   },
   {
-    "id": "59e314488bc2292021e1d12089e7968b7515b0f8cc121aa8a90c651ac3b1d727",
-    "source": "The Guardian",
-    "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-    "summary": "<p>Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored</p><p>Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of <a href=\"https://www.theguardian.com/uk-news/article/2024/aug/06/england-riots-two-tier-policing-myth-widespread\">two-tier policing</a>.</p><p>Although she said there was no systematic or routine two-tier policing, the home secretary said “a new impartiality standard” was necessary to reverse the fall in the public’s faith in law enforcement.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-    "published": "2026-11-18T20:03:50+00:00"
-  },
-  {
-    "id": "72dde43af4ee51b5aa6e091c2f476986bf945c89726f09c934b5544a265bc60f",
-    "source": "Al Jazeera",
-    "title": "Heated debate escalates into on-air fight on Armenian TV",
-    "summary": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-    "published": "2026-11-18T19:56:17+00:00"
-  },
-  {
-    "id": "d8bbb8453d44aab6d07adf08a3f2048c97c89087dde86b3d906898c3b0f4bf0f",
-    "source": "The Guardian",
-    "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
-    "summary": "<p>DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report</p><p>US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the wealthy activist and philanthropist that were not in the original.</p><p>Chambers’s case is the <a href=\"https://www.theguardian.com/us-news/2026/jul/18/fergie-chambers-stella-schnabel-spain-extradition\">first known instance</a> of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
-    "published": "2026-11-18T19:45:30+00:00"
-  },
-  {
-    "id": "431f3f6f922bcb938b8eb75bb07527234472e69655c35a291b7cf74fddda8635",
-    "source": "The Guardian",
-    "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-    "summary": "<p>Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party</p><p>Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs.</p><p>“If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-    "published": "2026-11-18T19:34:31+00:00"
-  },
-  {
-    "id": "5d5cce6e77c39fe28c0d04b1ed0af2b5af7ad8305aaf0967a5bf62ea58d970b1",
-    "source": "Al Jazeera",
-    "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-    "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-    "published": "2026-11-18T19:31:31+00:00"
-  },
-  {
-    "id": "b20948bb2966326261d3b65c4b535456212fe689eb565be48180dfaa2f6db2e1",
-    "source": "Al Jazeera",
-    "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-    "summary": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-    "published": "2026-11-18T19:30:51+00:00"
-  },
-  {
-    "id": "5aa60e2aa083092cb9ac338fe3c21e6ab57b03f19f682fc94b12de8fd8357794",
-    "source": "Al Jazeera",
-    "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-    "summary": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-    "published": "2026-11-18T19:27:42+00:00"
-  },
-  {
-    "id": "b9852b8f0b95f653757cbcd86a14523caf167c8a429ed80feb8425d0f6d615aa",
-    "source": "The Guardian",
-    "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
-    "summary": "<p>Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California</p><p>Heavy rain or snowfall is predicted across <a href=\"https://www.theguardian.com/us-news/california\">California</a> this week, as an “atmospheric river” dumps precipitation across the state.</p><p>Flood advisories have been issued for <a href=\"https://x.com/NWSBayArea/status/2123097012476199064\">much of the Bay Area</a>, according to the National Weather Service (NWS), while southern California may see coastal flooding, heavy surf, <a href=\"https://www.weather.gov/lox/\">wave damage to coastal piers and parking lots</a>, and beach sand erosion.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-    "published": "2026-11-18T19:18:18+00:00"
-  },
-  {
-    "id": "02b0cd2f773ff39d0bfd7028a82e76a9e7d88cefbdf16729c2f84a7c3a4f4988",
-    "source": "The Guardian",
-    "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-    "summary": "<p>Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit</p><p>The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.</p><p>European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-    "published": "2026-11-18T19:17:19+00:00"
-  },
-  {
-    "id": "8bc5754039f882ab0f87757b1f2b54c65e1de8ed10789ea1c4901286eddf1847",
-    "source": "The Guardian",
-    "title": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
-    "summary": "<p>The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis</p><p>The head of the Federal Aviation Administration (FAA) took responsibility for <a href=\"https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights\">the nationwide ground stop </a>that affected more than<a href=\"https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos\"> 12,400 flights </a>on Friday, urging people to “lay off” <a href=\"https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag\">Sean Duffy, the transportation secretary.</a></p><p>“I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an event featuring aviation officials and lawmakers on Wednesday,<a href=\"https://www.politico.com/news/2026/11/18/faa-chief-blame-duffy-01172188\"> Politico reported.</a></p> <a href=\"https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-    "published": "2026-11-18T19:14:38+00:00"
-  },
-  {
-    "id": "bf10e8d0f94a460d263b5debfe2eb37c394c749ebadce72f36d71845739fd169",
-    "source": "The Guardian",
-    "title": "The leave campaign has been resurrected, so how should Burnham respond?",
-    "summary": "<p>No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands</p><p>The launch of a <a href=\"https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit\">pro-Brexit campaign</a> was one of the few genuine surprises this week in Westminster, even if the arguments were straight out of a familiar playbook.</p><p>The video launched on X over the weekend, with scenes of riots in France, champagne flowing in Brussels, and European politicians saying how desperate they were for Britain’s cash.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-    "published": "2026-11-18T19:02:40+00:00"
-  },
-  {
-    "id": "552f08565c2bc104e4c24b51fc2dc07ed31087449db85656d6a326bce365be9e",
-    "source": "The Guardian",
-    "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
-    "summary": "<p>Health secretary said programme would help about 566,000 vulnerable people in England by April</p><p>More than half a million of the most vulnerable people in England will be offered help from joint <a href=\"https://www.theguardian.com/society/nhs\">NHS</a> and social care teams that will pave the way for the promised national care service, <a href=\"https://www.theguardian.com/politics/yvette-cooper\">Yvette Cooper</a> has announced.</p><p>Elderly people, care home residents, those with dementia and people near the end of their lives will receive assistance from the new programme.</p> <a href=\"https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
-    "published": "2026-11-18T18:56:02+00:00"
-  },
-  {
-    "id": "ad5207c956d02d99317d072afdfd5ec64b12d684f66335307d34814c3f6d32aa",
-    "source": "The Guardian",
-    "title": "Burnham considering cuts to national insurance to create more youth jobs",
-    "summary": "<p>PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/nov/17/who-are-neets-uk-youth-job-crisis-charts\">Who are the Neets? UK youth job crisis in five charts</a></p></li><li><p><a href=\"https://www.theguardian.com/society/2026/nov/18/uk-businesses-what-are-the-barriers-stopping-you-hiring-young-people\">UK firms: what is stopping you hiring young people?</a></p></li></ul><p>Andy Burnham has said he would consider cuts to national insurance for young people “very carefully”.</p><p>The prime minister also believes his proposed changes to welfare are a “very different proposition” from those of his predecessor, Keir Starmer, and the former chancellor Rachel Reeves in the last government.</p> <a href=\"https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-    "published": "2026-11-18T18:43:37+00:00"
-  },
-  {
-    "id": "8e06ff2bc5ae741deab11d08f1a8f1e5896c92e93e7285eff8eea15331585e3a",
-    "source": "Al Jazeera",
-    "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-    "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel&#039;s army detained him.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-    "published": "2026-11-18T18:22:26+00:00"
-  },
-  {
-    "id": "6b8d34f0519cf6774b3d28e6ad3d67985700dd8d01e9dd264ed52710e5b13128",
-    "source": "Al Jazeera",
-    "title": "Israeli forces launch new military operation in central Gaza",
-    "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-    "published": "2026-11-18T18:12:42+00:00"
-  },
-  {
-    "id": "e76d9465dfaa278aaa9a2b11534e0974d5ccf70cd3189f792827762c9a13d71e",
-    "source": "Al Jazeera",
-    "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-    "summary": "Trump told Philippine President Marcos he knew his parents &#039;very well&#039;.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-    "published": "2026-11-18T18:09:57+00:00"
-  },
-  {
-    "id": "518a2649257427ae880a72dba4a16747aad17b516da7c5282c9a89194a9cd08d",
-    "source": "The Guardian",
-    "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-    "summary": "<p>Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday</p><p>The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday.</p><p>A leaked text of the second draft shows an agreement has largely been reached with some outstanding points.</p> <a href=\"https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-    "published": "2026-11-18T17:56:39+00:00"
-  },
-  {
-    "id": "21a86c5dae7a6b4886a84b5b72d93b10b26c5c9f65bfcdd6422ce3060dcb6a88",
-    "source": "The Guardian",
-    "title": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-    "summary": "<p>Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer</p><p>Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under 50, MPs have heard.</p><p>Cases of early-onset bowel cancer have doubled in many countries in the past two decades, and while rising obesity and a fall in physical activity are contributors, researchers believe other factors must also be involved.</p> <a href=\"https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-    "published": "2026-11-18T17:55:14+00:00"
-  },
-  {
-    "id": "58b4b1c803257c7130f03adb07cca0ae3d8454afb508d87d231684f238478ee0",
-    "source": "The Guardian",
-    "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-    "summary": "<ul><li><p>Men’s world No 1 allegedly violated terms of settlement</p></li><li><p>Lawyers say Zverev will ‘defend himself against lawsuit’</p></li></ul><p>Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former couple’s daughter alleges that Zverev violated the terms of an out-of-court settlement between the pair after the woman accused him of assaulting her.</p><p>The lawsuit brought by Brenda Patea in Germany takes issue with Zverev reportedly saying in an interview with the French sports daily L’Equipe earlier this year that “it has been proven that the accusations were false” and “my innocence has been proven”.</p> <a href=\"https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-    "published": "2026-11-18T17:52:39+00:00"
-  },
-  {
-    "id": "a1651106d91e19bf4881033d47efccaa37cf0f10ec2a57bac1f370ac203853bb",
-    "source": "Al Jazeera",
-    "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-    "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-    "published": "2026-11-18T17:50:00+00:00"
-  },
-  {
     "id": "d8409bdc74cef688064d043fd6eb48d277175b8c2c5f38b9e0558fded40984d1",
     "source": "The Guardian",
     "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
     "summary": "<p>This blog is now closed, you can read more on this story <a href=\"https://www.theguardian.com/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin\">here</a></p><p><strong>Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?</strong></p><p>That is the question the Guardian’s diplomatic correspondent <strong>Patrick Wintour</strong> seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday.</p><p>It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally <a href=\"https://www.theguardian.com/world/ukraine\">Ukraine</a> but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse.</p> <a href=\"https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china\">Continue reading...</a>",
     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
     "published": "2026-11-18T17:48:24+00:00"
-  },
-  {
-    "id": "09a5756d775d521915f80b2aa45b4db8b32fe03ebca8aafec2a70d6c171a0c37",
-    "source": "The Guardian",
-    "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
-    "summary": "<p>Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts </p><p>Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the <a href=\"https://www.theguardian.com/us-news/us-senate\">Senate</a> committee on health, education, labor and pensions.</p><p>This ends O’Neill’s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>. The next NSF nominee will face a Democratic-led Senate.</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
-    "published": "2026-11-18T17:46:34+00:00"
-  },
-  {
-    "id": "3271ef8e63e8f2cc6bc3e9808a19a4353cee83f39dfaac4b311abc996242c4a4",
-    "source": "Al Jazeera",
-    "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-    "summary": "Billions have been pledged for Gaza since a 2025 &#039;ceasefire&#039;, but rebuilding hasn’t begun and Israeli attacks continue.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-    "published": "2026-11-18T17:45:09+00:00"
-  },
-  {
-    "id": "d8da16886db7756ff9d7b6afeea0990203336f4b382d5d95b6d5be5866906777",
-    "source": "BBC World",
-    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-    "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-    "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T17:34:25+00:00"
-  },
-  {
-    "id": "29e3d15185749f88c47ab9d5cffaef9c6f5ad7c278125487bfcc0318ce357dcf",
-    "source": "BBC World",
-    "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-    "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-    "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T17:34:23+00:00"
-  },
-  {
-    "id": "3b43fd35f7bac6b03f25d291093c20a31f02d656d4533a19f4a9f79d9b07039c",
-    "source": "BBC World",
-    "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-    "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
-    "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T17:09:43+00:00"
   },
   {
     "id": "3899f95c62c8755c52a433c5ae1aedfc8edbad8fa47e6f7b2568e926aedd3345",
@@ -288,38 +816,6 @@
     "published": "2026-11-18T17:00:40+00:00"
   },
   {
-    "id": "e8d478620ac5766ed15c3596e3d87b4a48f6bbe502458e213e32348fa93fa313",
-    "source": "BBC World",
-    "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T17:00:04+00:00"
-  },
-  {
-    "id": "b6281ef307f81515acbbf385cc73d0a82ca6d4858a9f7874e3cf28381a174182",
-    "source": "Al Jazeera",
-    "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-    "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-    "published": "2026-11-18T16:47:26+00:00"
-  },
-  {
-    "id": "b8309a47fc919951400b5e7ca1169f36f47cb427e5b67bd3be10e686999ee09a",
-    "source": "Al Jazeera",
-    "title": "World Bank official says Lebanon reconstruction making slow progress",
-    "summary": "Beirut blames Israel&#039;s occupation and attacks on southern Lebanon for reconstruction delays.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-    "published": "2026-11-18T16:44:59+00:00"
-  },
-  {
-    "id": "c9b0fff68ccc2e2df0b1adc2a30d0df41bbf123905a7c7c119071ebe036f38b6",
-    "source": "Al Jazeera",
-    "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-    "summary": "Crowds gathered in Shenzhen, China,  to welcome US President Donald Trump as he arrived for the APEC summit",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-    "published": "2026-11-18T16:40:03+00:00"
-  },
-  {
     "id": "0ab5e3b0f03a5bcaf17c0a10729757c5414ce34b2adcf7abda8597395b1d7afa",
     "source": "BBC World",
     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
@@ -328,108 +824,12 @@
     "published": "2026-11-18T16:33:16+00:00"
   },
   {
-    "id": "6832b53bf9dc0b8b92a497afcac86beb5f9fc9c7c3319e5b3396a4b81b463b6a",
-    "source": "Al Jazeera",
-    "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-    "summary": "Israel’s army beat a journalist covering a settler attack near Jericho.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-    "published": "2026-11-18T16:28:54+00:00"
-  },
-  {
-    "id": "2df22dff5a0bd4314eccb12fbc06e401001aa7edbf8352220ea8c60e6b2e9c43",
-    "source": "The Guardian",
-    "title": "Labour faces double blow over UK fossil fuel projects",
-    "summary": "<p>Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site</p><ul><li><p><a href=\"https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies\">Nils Pratley: with more gas storage  at risk. What’s the government plan for secure supplies?</a></p></li></ul><p>The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel projects amid disagreements over government policies.</p><p>One of the North Sea’s biggest independent companies, EnQuest, said on Wednesday it was quitting the North Sea oil and gas basin to focus on making better returns in Asia, blaming the “uncertain investment environment within the UK”.</p> <a href=\"https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-    "published": "2026-11-18T16:19:41+00:00"
-  },
-  {
-    "id": "4a15fdff765bd7e73ccee5ac4593b1e68e947d117216776d114c537c4b16b0f6",
-    "source": "Al Jazeera",
-    "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-    "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-    "published": "2026-11-18T16:16:48+00:00"
-  },
-  {
-    "id": "a38f101401d455881a34e60d1e28f96db0a140b99a141f3c4841e0395a2548e9",
-    "source": "BBC World",
-    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-    "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T16:10:44+00:00"
-  },
-  {
-    "id": "45114064d5f785d86bc07bfa6d794ec6d53a26de1db9b4d83c0b1b8309a7cc17",
-    "source": "Al Jazeera",
-    "title": "Five EU nations to deport migrants to Rwanda",
-    "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
-    "published": "2026-11-18T16:05:37+00:00"
-  },
-  {
-    "id": "a2c6319ae5d8e7243369eedf12b8ebd66a566aa37b76dd2261ab0242f5e9f59b",
-    "source": "BBC World",
-    "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-    "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
-    "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T16:05:26+00:00"
-  },
-  {
-    "id": "0828d7f965460da270edb3816138ac9a97b613391bfbe007fd15f93cfe730201",
-    "source": "Al Jazeera",
-    "title": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
-    "summary": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
-    "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
-    "published": "2026-11-18T15:57:35+00:00"
-  },
-  {
-    "id": "ff8c5d349f26b7c3eddd7aecd5be23c0efef96a80032a5a7a21bd1f4fc9e45cf",
-    "source": "Al Jazeera",
-    "title": "Pax Silica is the new face of US imperialism in the Philippines",
-    "summary": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
-    "url": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
-    "published": "2026-11-18T15:57:20+00:00"
-  },
-  {
-    "id": "f5f8f0ce367535ddf991c1137885312509d8062ba89c979cfd3561da7bdc86e7",
-    "source": "Al Jazeera",
-    "title": "Never played, already gone. JJ Gabriel leaves Man United",
-    "summary": "Teenage football star JJ Gabriel has made a cinematic farewell to Manchester United fans.",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
-    "published": "2026-11-18T15:50:43+00:00"
-  },
-  {
     "id": "0082b563af8d4e672e83dfedb97dfa89d6ed47ce7280dd1c88b1fcc38308ff23",
     "source": "BBC World",
     "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
     "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
     "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
     "published": "2026-11-18T15:39:57+00:00"
-  },
-  {
-    "id": "7339c7ddcf8ff3ce6d4618c53b5b44f525af7d5c2128c1da6d7b8aa880886a0a",
-    "source": "The Guardian",
-    "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
-    "summary": "<p>Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese has appeared in a leaders’ photo with Vladimir Putin at the Apec summit in China, despite Australia’s Ukrainian community urging the prime minister to protest against Russia’s war.</p><p>After arriving in the Chinese tech capital, Shenzhen, on Wednesday, Albanese said he would respect the wishes of China as the hosts of this week’s Asia-Pacific Economic Cooperation summit and take part in the photo.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
-    "published": "2026-11-18T15:39:11+00:00"
-  },
-  {
-    "id": "d608636cc3ab90c378d5e932db4d44d7321b78a4cd0df203acf40d683132ff5a",
-    "source": "Al Jazeera",
-    "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-    "summary": "The New York congressman is nominated after Democrats gained control of Congress in this month&#039;s midterm elections.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-    "published": "2026-11-18T15:37:52+00:00"
-  },
-  {
-    "id": "cc1d364f98976cb5cadf96782770ccf8979954090719c0364dbe840c17fe0ec6",
-    "source": "Al Jazeera",
-    "title": "Russian attacks on Ukraine kill at least five people",
-    "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as &#039;brutal&#039;.",
-    "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-    "published": "2026-11-18T15:32:01+00:00"
   },
   {
     "id": "0aa28089db1bbd04cf3e7f2753bdbf1e2f87964fbfb3522258b3e2e412c3d58f",
@@ -464,22 +864,6 @@
     "published": "2026-11-18T14:05:38+00:00"
   },
   {
-    "id": "6adfdf682e2068e9325b67921d37f9f432bbfce57099f34a0be422fcd0c5ded2",
-    "source": "The Guardian",
-    "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-    "summary": "<p>Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Business Council of Australia is lobbying for gas expansion policies that clash with the climate concerns of the majority of its own members, according to new research that raises questions about the sway of a handful of major companies.</p><p>The business association also does not publicly disclose who is on its energy and climate committee, prompting transparency concerns among researchers over how its policies are shaped and whose interests they represent.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-    "published": "2026-11-18T14:00:02+00:00"
-  },
-  {
-    "id": "4890d4f9638ab71db643be083b005fcee82fba6bb15e6fdd12fca5cf6ec92374",
-    "source": "BBC World",
-    "title": "The seven Anthropic founders who are about to become multi-billionaires",
-    "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T13:55:14+00:00"
-  },
-  {
     "id": "797b3025dfd8885bee782f70a818d7a2d9ae3b3f7d8cd2c28ffa7edb9f4f2e6c",
     "source": "NPR World",
     "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
@@ -494,6 +878,14 @@
     "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
     "published": "2026-11-18T13:04:48+00:00"
+  },
+  {
+    "id": "a2441a86e7a8fcfdc07a50d4af8a1f9a84e1b5b26eb54c383ac29864e1e117fd",
+    "source": "UN News",
+    "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+    "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+    "published": "2026-11-18T12:00:00+00:00"
   },
   {
     "id": "b8cfa4b75777cbe36dd5312c6df19429b6fe358b5894dae3efd888fcd21781e3",
@@ -512,14 +904,6 @@
     "published": "2026-11-18T12:00:00+00:00"
   },
   {
-    "id": "6df3cd11953155650bda1a1dba5de040228653b6519a91f1639085e019c339f5",
-    "source": "BBC World",
-    "title": "Who to watch in Spain's election race",
-    "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T11:44:25+00:00"
-  },
-  {
     "id": "17a5c11e242497f31d63343359b2895a4574bef471c4c1990a50c1d8c00dd31f",
     "source": "BBC World",
     "title": "Bancroft sandpaper claims heap pressure on Cummins",
@@ -534,22 +918,6 @@
     "summary": "As Nigeria's January 2027 elections approach, political violence and thuggery at campaign rallies and town hall meetings raise concerns about voter safety.",
     "url": "https://www.dw.com/en/axes-and-cutlasses-violence-on-nigeria-s-election-campaign-trail/a-79978467?maca=en-rss-en-world-4025-rdf",
     "published": "2026-11-18T10:56:00Z"
-  },
-  {
-    "id": "9f587a01257e3cbb4df419f323cd15e183711012764249f88962b7a53fea4e8c",
-    "source": "BBC World",
-    "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-    "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-    "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T10:53:21+00:00"
-  },
-  {
-    "id": "332576a5c7764614024a4ac1f9a28204b1ff8e99f14abbf38429a38a0fb34ae2",
-    "source": "DW News",
-    "title": "Latin America's mega-prisons: Can El Salvador's model work?",
-    "summary": "El Salvador's mega-prison has become a model for governments across Latin America seeking to combat organized crime. But experts question whether the approach is effective, sustainable or compatible with human rights.",
-    "url": "https://www.dw.com/en/latin-america-s-mega-prisons-can-el-salvador-s-model-work/a-79973524?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-18T10:45:00Z"
   },
   {
     "id": "c7aba06582cfe1a5082a0f4b8d50c8760bbf3967e036ad4f9f15e5a07d9556b6",
@@ -568,14 +936,6 @@
     "published": "2026-11-18T09:58:28+00:00"
   },
   {
-    "id": "e9059546c4b42c30a21b009a0b140e2e5316e8a85f418789be572287ce9347d9",
-    "source": "The Guardian",
-    "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
-    "summary": "<p>Carbon credit companies reject research that found only small increase in forest and canopy cover in regeneration areas despite wet conditions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A fight over the legitimacy of Australia’s climate change policy has reignited after researchers claimed “phantom forests” in the semi-arid outback are being used to create offsets that allow fossil fuel companies to keep pumping out pollution.</p><p>A group of academics, including professors from the Australian National University and the University of New South Wales, said they had examined 50 forest regeneration projects used to create carbon credits.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-    "published": "2026-11-18T09:30:36+00:00"
-  },
-  {
     "id": "64e86fd86d339f38f0a85501a4dd28e0a67bd37e02947db81c80488c5598fdc8",
     "source": "BBC World",
     "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
@@ -590,22 +950,6 @@
     "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
     "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
     "published": "2026-11-18T09:27:51+00:00"
-  },
-  {
-    "id": "68be44d626faa550ee098a2a6d8662a7dbf0092ec0e112241d41d7072312fc67",
-    "source": "BBC World",
-    "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-    "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
-    "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T08:33:32+00:00"
-  },
-  {
-    "id": "e0bab39aa8b672e42854ea0505062c8fb6b5126507db4f77e2e7b8797346d641",
-    "source": "The Guardian",
-    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
-    "summary": "<p>Inquest into deaths of four babies born in free births or at home in northern NSW between 2022 and 2024 hears ‘something was seriously wrong’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Baby DH was born in an inflatable pool, in a candle-lit room in his parents’ home near Byron Bay, with no one medically trained present. There are two very different versions of what happened next.</p><p>In the parents’ version, the doula reassured them Baby DH was OK, then left to inflate a jumping castle while their newborn turned purple, became floppy, and struggled to breathe. In the doula’s version, everything seemed OK but she suggested they seek more help if they wanted to.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
-    "published": "2026-11-18T07:58:32+00:00"
   },
   {
     "id": "5daa65e9f5f65c630a05ed367c1ca424e6b9dd35874d8a972f9ec5a593f34f1a",
@@ -632,28 +976,12 @@
     "published": "2026-11-18T06:57:06-05:00"
   },
   {
-    "id": "9e19b81890853e93b8a514c2360bc21c8a21551beddfc5c2454222d73ea68ab3",
-    "source": "The Guardian",
-    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
-    "summary": "<p>Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Bandidos gang member says it is possible he used a fake $20,000 invoice for souvlaki to pocket thousands of dollars while employed on a Big Build site.</p><p>The <a href=\"https://www.theguardian.com/australia-news/2026/nov/17/cfmeu-bandidos-bikie-joel-leavitt-big-build-royal-commission-ntwnfb\">former CFMEU member and bikie Joel Leavitt</a> faced a second day of examination by the royal commission into alleged corruption across Victoria’s construction sector on Wednesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
-    "published": "2026-11-18T06:48:28+00:00"
-  },
-  {
     "id": "cd91052aeafacba69080fd8e54fa08a11d26f1b55d10ad1eb0aa5390ef42e991",
     "source": "NPR World",
     "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
     "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
     "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
     "published": "2026-11-18T06:00:00-05:00"
-  },
-  {
-    "id": "8d0eaa6e855480522995962165627f00494e52fddb3f06461e94b38ad0e59054",
-    "source": "DW News",
-    "title": "APEC summit: What Trump, Xi and Putin want",
-    "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
-    "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-18T05:39:00Z"
   },
   {
     "id": "fbb867dc87bfa212b03d83244d0db138787f704bd3350dfaaf652eb105435f8b",
@@ -664,92 +992,12 @@
     "published": "2026-11-18T05:32:03-05:00"
   },
   {
-    "id": "475ca03637df2db4a1276a23a03c507ea54f9925669f920e37f291fd00798f7a",
-    "source": "BBC World",
-    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-    "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-    "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T05:11:42+00:00"
-  },
-  {
     "id": "a18a3641c8f1044730a58394738766d6a60f9c157d8aa84fc75dfa2cd47fdbbd",
     "source": "The Guardian",
     "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
     "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.</p><p>The charge relates to a €7.4bn deal <a href=\"https://www.theguardian.com/world/2024/mar/17/egypt-eu-deal-refugees-mediterranean\">promised by Ursula von der Leyen</a>, the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024. The three-year “strategic and comprehensive partnership” was intended to bolster Egypt’s shaky economy, deter migrants from coming to Europe and shore up a region reeling from the 7 October attacks and Israel’s war on Gaza.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans\">Continue reading...</a>",
     "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
     "published": "2026-11-18T05:00:32+00:00"
-  },
-  {
-    "id": "7643da274a1c6730a84317c06cc0a6c79a187f416aa276b1f6eadffe28812b72",
-    "source": "NPR World",
-    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
-    "summary": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries' stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling behind on climate technologies.",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-    "published": "2026-11-18T05:00:00-05:00"
-  },
-  {
-    "id": "c7df69fa4c933523c24a7e578f0559fdf917996c871923dcb27fe5a72be03a9f",
-    "source": "NPR World",
-    "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-    "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-    "published": "2026-11-18T05:00:00-05:00"
-  },
-  {
-    "id": "770394a85193c56f828b542525a10934c2a5c10f5765a5d7b4023afd76739917",
-    "source": "BBC World",
-    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-    "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-    "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T04:57:06+00:00"
-  },
-  {
-    "id": "86a728defade4a4782bded22cf0f319b4745fea30a9a210d87d2ef5b9df60fb4",
-    "source": "NPR World",
-    "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
-    "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
-    "published": "2026-11-18T04:43:44-05:00"
-  },
-  {
-    "id": "e47dadc6bc0477efbffb29558491fa8e6d61f1ecc85a3666c727de4da48e3074",
-    "source": "NPR World",
-    "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-    "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
-    "url": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
-    "published": "2026-11-18T04:43:28-05:00"
-  },
-  {
-    "id": "ccc4389da68ad4d0f81efa52c03f4da7c4c4ac59858313a04f9ba64161abc2e4",
-    "source": "BBC World",
-    "title": "Waymo pulls driverless taxis from all US freeways",
-    "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-    "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T03:07:22+00:00"
-  },
-  {
-    "id": "e20cf5e31880fcb846805d57ff5f4fbb271c159d44a43d2218fe3a8df19dc71d",
-    "source": "BBC World",
-    "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-    "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-    "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T02:29:52+00:00"
-  },
-  {
-    "id": "7edf6055eec59c9bf9699e93811563e2158c4ffe64548da184dae214f70b2bc4",
-    "source": "The Guardian",
-    "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-    "summary": "<p>South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams</p><p>The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam <a href=\"https://viewer.gutools.co.uk/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam\">admitted using a concealed camera</a> and AI to cheat.</p><p>On Thursday, more than half a million people, mostly school students, are due to sit the exam, known as the suneung, at 1,312 centres across the country. The exam runs for a gruelling eight hours over a single day and determines which university a candidate can attend and, in turn, their future prospects.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-    "published": "2026-11-18T02:03:27+00:00"
-  },
-  {
-    "id": "b6eb95c1fd1b9f636af1ca9564e4caab7365946cb75f640d3631448682dac9e6",
-    "source": "BBC World",
-    "title": "Irishman charged with destroying US military aircraft with axe",
-    "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-    "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-18T02:00:37+00:00"
   },
   {
     "id": "58ccec08be884d74fb76d7c795b1d4f394b027aa4fb804f84f574ee183514205",
@@ -768,38 +1016,6 @@
     "published": "2026-11-18T00:21:33+00:00"
   },
   {
-    "id": "0c76433c2bc5ed53ca9ff3c77b9267ce3e18c392392786d67885e7e60bb7f722",
-    "source": "BBC World",
-    "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-    "summary": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
-    "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T23:34:56+00:00"
-  },
-  {
-    "id": "bb53bbfbdec3dc0a151a355c2d3bc28af07ac4048c1bce372f24a9f8033b93a1",
-    "source": "BBC World",
-    "title": "Millions of red crabs start annual migration on Christmas Island",
-    "summary": "The crabs were seen migrating from forests to the sea to breed on the coast of the Australian territory.",
-    "url": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T23:05:39+00:00"
-  },
-  {
-    "id": "35ec7fce43bd571d36aae6a186a9d36898778ad68d53ace3227cf104f8b92137",
-    "source": "BBC World",
-    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-    "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T22:46:30+00:00"
-  },
-  {
-    "id": "e57fb579949bca90755ee05d9af2325129b99adbfd99089f1bc690f68b4e82a7",
-    "source": "The Guardian",
-    "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-    "summary": "<p>Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government</p><p>The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu.</p><p>The new speaker is Matan Kahana, an ally of <a href=\"https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority\">Gadi Eisenkot</a>, the party leader currently <a href=\"https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in\">working to form the next government and replace Netanyahu</a>.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-    "published": "2026-11-17T22:30:17+00:00"
-  },
-  {
     "id": "c9a390a5405cb4d536a9ce1ac28d9a166fed342f5c5ae22ae5f4f0d097ffa3fe",
     "source": "The Guardian",
     "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
@@ -816,116 +1032,12 @@
     "published": "2026-11-17T21:40:56+00:00"
   },
   {
-    "id": "09543f7a2b137148c5439043cfccebc85d3b10296a4ed0b5ee05b1e260ea5070",
-    "source": "BBC World",
-    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T21:24:35+00:00"
-  },
-  {
-    "id": "cd623bac54324ccfdcd75ff90189f37fbbd9cbec839fce82589bc4ea1c2db8c4",
-    "source": "BBC World",
-    "title": "US loses measles elimination status after 26 years amid record case numbers",
-    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T21:04:00+00:00"
-  },
-  {
     "id": "fae9554ba69c3ea7990166f3a59664e40e53c90cb12acfa9e266e1f54897514a",
     "source": "The Guardian",
     "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
     "summary": "<p>Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas</p><p>An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in <a href=\"https://www.theguardian.com/us-news/texas\">Texas</a> has been reunited with his family in <a href=\"https://www.theguardian.com/us-news/california\">California</a>.</p><p>Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in. He was separated from his loved ones and held in a facility in Texas. Today, he’s finally home.”</p> <a href=\"https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release\">Continue reading...</a>",
     "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
     "published": "2026-11-17T20:59:56+00:00"
-  },
-  {
-    "id": "6b93002b54507be78ba5873e4a92be6223144f676035380149d45cd47cdc7a44",
-    "source": "DW News",
-    "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
-    "summary": "Former President Hashim Thaci has been convicted of trying to influence witnesses in his war crimes trial. The conviction has reignited debate in Kosovo about the Kosovo Specialist Chambers, the court that convicted him.",
-    "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-17T20:40:00Z"
-  },
-  {
-    "id": "02f09a3f2c48291e6c9564d9dd0a3f581680c0b73cccf42b4967cc95a1e18379",
-    "source": "BBC World",
-    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T20:30:20+00:00"
-  },
-  {
-    "id": "489fc4dc772957a72668dc117d98757112907ca5cba4b8427ba744fdeeb754ec",
-    "source": "The Guardian",
-    "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
-    "summary": "<p>Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents</p><p>A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after taking over several Palestinian homes.</p><p>Fadha Wadha was standing outside her home in al-Duyuk al-Tahta in the occupied West Bank when she was struck in the head by a bullet as Israeli settlers fired towards Palestinian houses, according to testimonies from residents. Several other Palestinians, including her son, were wounded by gunfire.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
-    "published": "2026-11-17T20:21:48+00:00"
-  },
-  {
-    "id": "d53d98e7d347ced1a69e721b7c0f0376681d949d38c90da8bbf9a175972b77c3",
-    "source": "The Guardian",
-    "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
-    "summary": "<p>Foreign affairs minister, Penny Wong, says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia has announced another tranche of sanctions on individuals and organisations involved in “illegal settlement expansion and human rights abuses against Palestinians” in the West Bank.</p><p>In a statement, the foreign affairs minister, Penny Wong, said it was the first time Australian sanctions had targeted a construction company involved in the building of settlements.</p> <a href=\"https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
-    "published": "2026-11-17T20:20:31+00:00"
-  },
-  {
-    "id": "261e2b07b016509b36c8569d1c302aa15a9acc737d8119ea15270e4302aee984",
-    "source": "DW News",
-    "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
-    "summary": "2027 could be a landmark year for EU–Southeast Asia trade, with several deals nearing completion. But the harder task will be to ensure that businesses actually use them.",
-    "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-17T18:39:00Z"
-  },
-  {
-    "id": "19e6d13053833b3349da87cff5daf98ba6d4aa4fe8382f2f0c2fc3da4573d0fb",
-    "source": "BBC World",
-    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-    "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-    "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T18:20:36+00:00"
-  },
-  {
-    "id": "b4fc97228580f320e54827bdf4e713325c57a911453e04b60abac3c57b896ee6",
-    "source": "The Guardian",
-    "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-    "summary": "<p>High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy</p><p>Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy.</p><p>Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-    "published": "2026-11-17T17:58:05+00:00"
-  },
-  {
-    "id": "4c41059aab1950cda6a796c2826eb7fa7448096c14d00837f20cea3f14bcb8de",
-    "source": "BBC World",
-    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-    "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-    "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-    "published": "2026-11-17T17:19:57+00:00"
-  },
-  {
-    "id": "c83fbb08e25b20b633341de2f7a7cca0589b95f2549da270df1196c3f6e72592",
-    "source": "The Guardian",
-    "title": "Costa Rican journalist shot dead in first such killing in 25 years",
-    "summary": "<p>Camilo Rodriguez’s death comes as the country grapples with a surge in drug violence </p><p>The Costa Rican journalist Camilo Rodríguez, who gained prominence for publishing allegations against ⁠suspected drug traffickers and politicians, was shot dead on Monday, authorities said.</p><p>The first known killing of a journalist ⁠in Costa Rica in ⁠25 years, ​Rodriguez’s death comes as the country grapples with a surge in drug violence driven by international trafficking groups, despite long ⁠being regarded as one of Central America’s most peaceful and stable democracies.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
-    "published": "2026-11-17T17:19:12+00:00"
-  },
-  {
-    "id": "86273d1afc7f081820a2c915711ec21bf9ab20a95d8800b6cd2f6276cba297dc",
-    "source": "DW News",
-    "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
-    "summary": "Amid the war in Iran, Saudi Arabia's human rights situation remains bleak, with at least 211 executions, corporal punishment and an intensifying crackdown on critics. Is the regional conflict driving domestic repression?",
-    "url": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-17T17:02:00Z"
-  },
-  {
-    "id": "87ee6756fc57377cddef39396fa44d8100053318dde704608a677efd4028987e",
-    "source": "DW News",
-    "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
-    "summary": "The Kremlin is reportedly calling on NATO to withdraw from large parts of Eastern Europe. What this would mean for the security of millions of Europeans — and what lies behind Russia's plan.",
-    "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-17T16:20:00Z"
   },
   {
     "id": "cff41e40b9a1a96b64c0d6a52a4e6ffacb92f662112aa72bfd6abaf2f654bd87",
@@ -976,22 +1088,6 @@
     "published": "2026-11-17T12:00:00+00:00"
   },
   {
-    "id": "bf1b52248997328da7b1548568acd9a715cf956332013a676a1be00940c5f704",
-    "source": "The Guardian",
-    "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
-    "summary": "<p>Host city offers showcase of China’s rise into a confident and innovative power central to global economy</p><p>In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”.</p><p>The Asia-Pacific Economic Cooperation summit is a dream showcase for one of China’s most advanced cities, and the country’s leader, Xi Jinping, is basking in its neon glow.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
-    "published": "2026-11-17T11:18:26+00:00"
-  },
-  {
-    "id": "233a92b8e7cf9d40bc120513cc4f3fb06e1df9d416225c615e43f3c59b997d95",
-    "source": "The Guardian",
-    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "summary": "<p>Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news#top-of-blog\">Asean and Apec summits – as it happened</a></p></li></ul><p>Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US president arrived in the city for a leaders’ summit.</p><p>Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit. The crowds were expected to try to march to the summit site.</p> <a href=\"https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-    "published": "2026-11-17T11:00:39+00:00"
-  },
-  {
     "id": "c42bafb1456b0634e2fea1fb8eb33c080f5be41db6182ff10bb3f37c85499ac4",
     "source": "The Guardian",
     "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
@@ -1006,22 +1102,6 @@
     "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.</p><p>The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s <a href=\"https://www.theguardian.com/world/2026/mar/26/meps-back-plans-for-return-hubs-raising-fears-of-human-rights-black-holes\">newly agreed returns law</a> that allows<em> </em>people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda\">Continue reading...</a>",
     "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
     "published": "2026-11-17T01:10:59+00:00"
-  },
-  {
-    "id": "5c87001ef51a7966e40f7005e7dcf809744965cf47cb92920a44c6913281d4c7",
-    "source": "DW News",
-    "title": "Iran's growing exodus of young talent",
-    "summary": "Conflict and uncertainty are driving more and more educated young Iranians to consider leaving the country.",
-    "url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-world-4025-rdf",
-    "published": "2026-11-16T16:08:00Z"
-  },
-  {
-    "id": "9392df1faac827c57b70f0298580381578c6baad018571e92e525c6d63325b9c",
-    "source": "The Guardian",
-    "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-    "summary": "<ul><li><p>Suspect named as Greene Da’monte Khiree</p></li><li><p>Drug smuggling carries life sentence in Nigeria</p></li></ul><p>An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.</p><p>Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates.</p> <a href=\"https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-    "published": "2026-11-16T13:16:36+00:00"
   },
   {
     "id": "c71eade79aa10c71347745658be1cbda1473ad04afe087aa17d99a5f45101402",
@@ -1104,18 +1184,10 @@
     "published": "2026-11-16T12:00:00+00:00"
   },
   {
-    "id": "b07bfa65b9f5c89dff7b9722f2cf2ef642f3ba0a382fb95e8f2984b887e40f51",
-    "source": "The Guardian",
-    "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-    "summary": "<p>Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human</p><p>The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wildlife conflict in the city.</p><p>The 44-member Waterfall troop (named after the area they mainly inhabit) was captured in the southern seaside suburb of Simon’s Town on Friday and Saturday. A second, smaller Seaforth troop is also due to be moved.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-    "published": "2026-11-16T10:19:08+00:00"
-  },
-  {
     "id": "6c89a9610acaa0c95bdece1d7042ed1f12b6685d4a2a2a8fbd1c884a046c2664",
     "source": "UN News",
     "title": "First Person: Managing risk on Ukraine’s frontline",
-    "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.",
+    "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a warzone, according to the top UN official in Ukraine.",
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
     "published": "2026-11-15T12:00:00+00:00"
   },
@@ -1134,14 +1206,6 @@
     "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ISIL.&nbsp;",
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
     "published": "2026-11-15T12:00:00+00:00"
-  },
-  {
-    "id": "e7f3519ec502f218a1778d96c8331dad103faee0664dc98b3b2ec96bf0a1e743",
-    "source": "The Guardian",
-    "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-    "summary": "<p>International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel</p><p>The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark case that will set a critical 21st-century benchmark for the gravest of all international crimes.</p><p>The closely watched judgment could become one of the most significant moments in international law since the end of the second world war.</p> <a href=\"https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-    "published": "2026-11-15T06:00:05+00:00"
   },
   {
     "id": "656f256a2710e5368b866664c01650c9e0ea5440ffc4f7894305be56795d3aae",
@@ -1190,53 +1254,5 @@
     "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.&nbsp;",
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
     "published": "2026-11-13T12:00:00+00:00"
-  },
-  {
-    "id": "9cf54d021a2bc4e96bd9ea419d1eb96198010b1d7bf0dc24b437c910a27bee27",
-    "source": "UN News",
-    "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-    "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
-    "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-    "published": "2026-11-13T12:00:00+00:00"
-  },
-  {
-    "id": "23e5aead6df2bbc4ce74e2aa368713bb70aa1f809137b968e655a03056d8cd18",
-    "source": "UN News",
-    "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-    "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
-    "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-    "published": "2026-11-12T12:00:00+00:00"
-  },
-  {
-    "id": "e44bf41057f0c524da79f938cd65282924fdd0dc554bf9c2d66424c83c05efb8",
-    "source": "UN News",
-    "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-    "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.&nbsp;",
-    "url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
-    "published": "2026-11-12T12:00:00+00:00"
-  },
-  {
-    "id": "e5307a7894550b5b837a8b184420183dadf8c67ea5a21cc31071226bbd0acd08",
-    "source": "UN News",
-    "title": "New platform aims to get money moving before disaster strikes",
-    "summary": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
-    "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
-    "published": "2026-11-12T12:00:00+00:00"
-  },
-  {
-    "id": "72d1a52d61487f6a7a18090fa8df48ccaf2684078ebe86c82a0715d86b0258f2",
-    "source": "The Guardian",
-    "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
-    "summary": "<p>Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprising</p><p>Sheikh Hasina is “confident” she will return to Bangladesh in December, according to exiled members of her party, after the disgraced former prime minister applied for a new passport this week.</p><p>Hasina has been living in self-imposed exile since August 2024 when she was toppled from power by a <a href=\"https://www.theguardian.com/world/article/2024/jul/26/bangladesh-student-protests-mass-movement-against-dictator\">mass uprising</a> against her authoritarian rule. She crossed the border to India, where she has since been allowed to live freely in Delhi.</p> <a href=\"https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
-    "published": "2026-11-10T10:57:51+00:00"
-  },
-  {
-    "id": "deae271717082f8147655504634359fcc0f6779f52eb8e81f67f977d4cb1e43c",
-    "source": "The Guardian",
-    "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir",
-    "summary": "<p>From the assassinations of her husband and mother-in-law to press stonewalling under Modi, Belonging offers an insider’s account of India’s political evolution</p><p><strong>• </strong><a href=\"https://www.theguardian.com/world/2026/jul/30/sign-up-for-this-is-india-our-free-weekly-newsletter-on-life-in-the-subcontinent\"><strong>Don’t get This is India delivered to your inbox? Sign up here</strong></a></p><p>Few love stories have been as closely entwined with a nation’s history as that of Sonia and Rajiv Gandhi. The former’s much-awaited political memoir, Belonging, offers a strikingly candid account of her journey from a small town in Italy to the highest echelons of power in India – all for love, she says.</p><p>The veteran Congress party leader has been fiercely protective of her personal world. In Belonging, she opens up for the first time about the extraordinary twists and turns of a life that has largely unfolded in full public view. (The Guardian’s Hannah Ellis-Petersen has <a href=\"https://www.theguardian.com/world/2026/nov/07/interview-sonia-gandhi-rajiv-gandhi-assassination-memoir-extract\">a rare in-person interview with Gandhi</a>, and you can read <a href=\"https://www.theguardian.com/world/2026/nov/07/sonia-gandhi-recalls-killing-indira-gandhi-memoir\">an excerpt from the book here</a>.)</p> <a href=\"https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging",
-    "published": "2026-11-10T07:30:31+00:00"
   }
 ]
